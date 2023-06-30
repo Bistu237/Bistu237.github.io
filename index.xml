@@ -6,7 +6,23 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Jun 2023 17:03:49 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Jun 2023 08:14:20 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MyProblemAndSolution</title>
+      <link>/posts/myproblemandsolution/</link>
+      <pubDate>Fri, 30 Jun 2023 08:14:20 +0800</pubDate>
+      
+      <guid>/posts/myproblemandsolution/</guid>
+      <description>
+        
+          
+            #这是我在搭建博客遇到的问题和解决的过程 问题1.连不上github 出现404错误 2.themes包使用错误 win和mac包同时使用 3.如何创建第二个仓库中的分支 过程1.使用老师给予的加速器 2.删除mac的文件夹 3.自己网上学习和对于第一个仓库分支创建的理解
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>MyFirstArticles</title>
       <link>/posts/myfirstarticles/</link>
